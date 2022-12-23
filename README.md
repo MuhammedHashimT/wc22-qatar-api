@@ -11,6 +11,8 @@
 #### Firstly you need to  signup on  http://api.cup2022.ir
 #### For documentation visit https://github.com/raminmr/free-api-worldcup2022#readme
 
+ __For sample API use__ ``` https://tortoise-turtleneck-shirt.cyclic.app  ``` 
+
 ## How To Install ?
 
 ### STEP 1
